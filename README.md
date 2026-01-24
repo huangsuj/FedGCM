@@ -1,4 +1,4 @@
-# ADANet
+# FedGCM
 Source code of FedGCM, which is proposed in this paper:
 Agree to Disagree: Gradient Surgery for Homophily Heterogeneity in Federated Graph Learning
 ### Requirement
@@ -16,3 +16,4 @@ Agree to Disagree: Gradient Surgery for Homophily Heterogeneity in Federated Gra
 
 ### Quick Running
 run `python main.py`
+
