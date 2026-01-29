@@ -1,6 +1,6 @@
 # FedGCM
 Source code of FedGCM, which is proposed in this paper:
-Agree to Disagree: Gradient Surgery for Homophily Heterogeneity in Federated Graph Learning
+Homophily-Heterogeneity Gradient Surgery for Federated Graph Learning
 ### Requirement
 - Python == 3.9.12
 - PyTorch == 1.11.0
@@ -16,4 +16,5 @@ Agree to Disagree: Gradient Surgery for Homophily Heterogeneity in Federated Gra
 
 ### Quick Running
 run `python main.py`
+
 
